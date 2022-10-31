@@ -1,0 +1,22 @@
+{
+  "name": "natours",
+  "version": "1.0.0",
+  "description": "landing page for natours",
+  "main": "index.js",
+  "scripts": {
+    "compiled:sass": "sass sass/main.scss css/style.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ghuganiks/natours-website.git"
+  },
+  "author": "Nikita",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ghuganiks/natours-website/issues"
+  },
+  "homepage": "https://github.com/Ghuganiks/natours-website#readme",
+  "devDependencies": {
+    "sass": "^1.55.0"
+  }
+}
